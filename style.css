@@ -296,14 +296,14 @@ nav img{
 
 }
 .buttonn button{
-    width: 202px;
+    width: 282px;
     height: 35px;
     border: 2px solid #fff;
     border-radius: 30px;
     background: #0065c3;
     color: #ffff;
     font-size: 14px;
-    margin-left: 365px;
+    margin-left: 335px;
     transition: background-color .1s ease-out,color .1s ease-out;
     transition-property: background-color, color;
     transition-duration: 0.1s, 0.1s;
